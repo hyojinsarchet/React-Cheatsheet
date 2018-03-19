@@ -39,4 +39,4 @@ The Virtual DOM is a key piece of how React works.
 Because of that, React can keep track of changes in the actual DOM by comparing different instances of the Virtual DOM.
 It only updates the actual DOM with the necessary changes.
 
-![alt components] (components-page (1).png)
+![components] (components-page(1).png)
