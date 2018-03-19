@@ -2,7 +2,7 @@
 
 - F.I.R.S.T. Focused, Independent, Small, and Testable components are well suited to creating larger complex components because they are 'Reusable'.
 
-![alt resusable-components] (atomic-design.png)
+![resusable-components] (atomic-design.png)
 - Atoms:
 smallest building blocks of an application.
 text inputs, labels (for inputs), buttons, progress indicators, links, and so on.
